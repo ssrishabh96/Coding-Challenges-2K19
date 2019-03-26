@@ -6,4 +6,4 @@ I will be updating the index of the programs as I complete them with links to th
 
 Index:
 1. Reverse Integer (Link: https://leetcode.com/problems/reverse-integer/)
-2. 
+2. String to Integer (Link: https://leetcode.com/problems/string-to-integer-atoi/)
