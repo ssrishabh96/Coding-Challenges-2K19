@@ -8,3 +8,4 @@ Index:
 1. Reverse Integer (Link: https://leetcode.com/problems/reverse-integer/)
 2. String to Integer (Link: https://leetcode.com/problems/string-to-integer-atoi/)
 3. Prime numbers using Divison method & Sieve of Eratosthenes method
+4. Finding Factors of a number
