@@ -11,3 +11,4 @@ Index:
 4. Finding Factors of a number
 5. Prime factorization of a number 
 6. Euclid's algorithm to find the Greatest Common Divisor (GCD) of two numbers
+7. Program to compute the area of the polygon where each vertex is a Point with an x and y coordinate 
