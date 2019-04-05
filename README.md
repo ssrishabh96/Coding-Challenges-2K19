@@ -10,3 +10,4 @@ Index:
 3. Prime numbers using Divison method & Sieve of Eratosthenes method
 4. Finding Factors of a number
 5. Prime factorization of a number 
+6. Euclid's algorithm to find the Greatest Common Divisor (GCD) of two numbers
