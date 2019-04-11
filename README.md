@@ -13,3 +13,5 @@ Index:
 6. Euclid's algorithm to find the Greatest Common Divisor (GCD) of two numbers
 7. Program to compute the area of the polygon where each vertex is a Point with an x and y coordinate 
 8. States program(Check the program file for the program description) (Link: )
+9. Binary Search program to compute the first and last occurence of a key in case of a sorted array with duplicate elements.
+10. Count the number of rotations in a Circularly rotated array of integers
