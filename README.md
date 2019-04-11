@@ -15,3 +15,4 @@ Index:
 8. States program(Check the program file for the program description) (Link: )
 9. Binary Search program to compute the first and last occurence of a key in case of a sorted array with duplicate elements.
 10. Count the number of rotations in a Circularly rotated array of integers
+11. Find the index of the element in a Circularly rotated array of integers
