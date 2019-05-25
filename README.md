@@ -17,5 +17,6 @@ Index:
 10. Count the number of rotations in a Circularly rotated array of integers
 11. Find the index of the element in a Circularly rotated array of integers
 12. Find the first unique character index in a String (Link: https://leetcode.com/problems/first-unique-character-in-a-string/)
-13. Add Two numbers: (Link: https://leetcode.com/problems/add-two-numbers/)
-14. Jewels and Stones; (Link: https://leetcode.com/problems/jewels-and-stones/) 
+13. Add Two numbers (Link: https://leetcode.com/problems/add-two-numbers/)
+14. Jewels and Stones (Link: https://leetcode.com/problems/jewels-and-stones/) 
+15. Palindrome number (Link: https://leetcode.com/problems/palindrome-number/)
