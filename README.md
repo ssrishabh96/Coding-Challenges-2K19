@@ -18,3 +18,4 @@ Index:
 11. Find the index of the element in a Circularly rotated array of integers
 12. Find the first unique character index in a String (Link: https://leetcode.com/problems/first-unique-character-in-a-string/)
 13. Add Two numbers: (Link: https://leetcode.com/problems/add-two-numbers/)
+14. Jewels and Stones; (Link: https://leetcode.com/problems/jewels-and-stones/) 
